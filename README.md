@@ -1,7 +1,7 @@
 ## Weather_GUI
 GUI for Weather data using python and Tkinter module. This uses the API from openweathermap.org. If for some reason the API doesn't work, simply replace the existing api key with your own. The key can be obtained free from the mentioned website.
 
-### To run the program without worrying about the dependencies use the executable file. If on running it throws error, simply do ***chmod u+x frontend_weather*** to give the file execute permissions and them it should run fine. Feel free to adapt the source code and make it better. 
+To run the program without worrying about the dependencies use the executable file. If on running it throws error, simply do ***chmod u+x frontend_weather*** to give the file execute permissions and them it should run fine. Feel free to adapt the source code and make it better. 
 
 ### Some of the images
 
