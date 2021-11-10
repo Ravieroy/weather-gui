@@ -1,5 +1,5 @@
 import sqlite3
-from tkinter.constants import SEPARATOR
+##from tkinter.constants import SEPARATOR
 
 
 def connect():
