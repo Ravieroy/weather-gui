@@ -5,7 +5,7 @@ GUI for Weather data using python and Tkinter module. This uses the API from [op
 
 To run the program without worrying about the dependencies use the executable file. For Windows the executable is in *Weather_GUI/Executable_Win/frontend_weather.exe* and for Linux it is in *Weather_GUI/Executable_Linux/frontend_weather*.If on running (in Linux) it throws error, simply do ***chmod u+x frontend_weather*** to give the file execute permissions and them it should run fine. Feel free to adapt the source code and make it better. 
 
-The code for the GUI part is coded in frontend_weather.py and the backend part is done in backend_weather.py. A database named cities.db is provided and atleast one entry in the database is required to be present for the executable/program to run. I couldn't make it work without it. You can them delete/add new cities into the database. 
+The code for the GUI part is coded in frontend_weather.py and the backend part is done in backend_weather.py. A database named cities.db is provided and atleast one entry in the database is required to be present for the executable/program to run. I couldn't make it work without it. You can then delete/add new cities into the database. 
 
 
 
